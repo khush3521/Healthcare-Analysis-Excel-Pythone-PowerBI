@@ -14,8 +14,8 @@ In this project, I focused on: Cleaning and transforming raw healthcare data usi
 ## QUESTIONS (KPIs) & Process 
 1 FINANCIAL DASHBOARD (5 Questions)
 - Which hospital generates the highest revenue and which departments contribute most to it?
-Purpose: Identify top-performing hospitals and their revenue sources
-Use: Resource allocation and expansion planning
+  - Purpose: Identify top-performing hospitals and their revenue sources
+  - Use: Resource allocation and expansion planning
 - What is the payment status distribution and how much amount is outstanding?
 Purpose: Monitor cash flow and pending payments
 Use: Accounts receivable management
