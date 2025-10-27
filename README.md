@@ -51,5 +51,5 @@ In this project, I focused on: Cleaning and transforming raw healthcare data usi
 
 
 ## Dashboards
--  <a href="https://github.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/commit/5333a41317f495b2e2f989d0b6cdb4cacc0d3054">Dashboard2</a>
--  <a href="https://github.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/commit/5333a41317f495b2e2f989d0b6cdb4cacc0d3054#diff-72e80201d8c944740ad4ec3d54c828c97cdac2ec429f2d3a3d357fc5fc18bf37">Dashboard1<a/>
+-  <a href="https://github.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/commit/5333a41317f495b2e2f989d0b6cdb4cacc0d3054">
+-  <a href="https://github.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/commit/5333a41317f495b2e2f989d0b6cdb4cacc0d3054#diff-72e80201d8c944740ad4ec3d54c828c97cdac2ec429f2d3a3d357fc5fc18bf37">
