@@ -51,6 +51,15 @@ In this project, I focused on: Cleaning and transforming raw healthcare data usi
 
 
 ## Dashboards
-https://raw.githubusercontent.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/5333a41317f495b2e2f989d0b6cdb4cacc0d3054/Screenshot%202025-10-27%20205835.png
-https://github.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/blob/main/Screenshot%202025-10-27%20160643.png?raw=true
+- https://raw.githubusercontent.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/5333a41317f495b2e2f989d0b6cdb4cacc0d3054/Screenshot%202025-10-27%20205835.png
+- https://github.com/khush3521/Healthcare-Analysis-Excel-Pythone-PowerBI/blob/main/Screenshot%202025-10-27%20160643.png?raw=true
+
+## Project Insight 
+- Department X has the highest patient load but moderate recovery rate
+- City Y contributes maximum patients, indicating high demand in that region
+- Recovery rate is strongly correlated with early diagnosis
+- Longer hospital stays lead to higher treatment costs
+
+## 7. Final Conclusion
+- This project demonstrates how data analytics and visualization can improve decision-making in healthcare.By using Python for analysis and Power BI for dashboards, we can identify cost-saving opportunities, improve patient outcomes, and support better hospital management decisions.
 
