@@ -23,4 +23,5 @@ Key Analytical Questions
 8. Patient outcome by severity levels
 9. Monthly admission trends
 10. Demographic patterns in diseases
- 
+Financial Dashboard Link <a href="
+clinical Dashbord Link <a href="
